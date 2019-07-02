@@ -1,0 +1,344 @@
+
+	<!DOCTYPE html>
+<html>
+<head>
+
+
+	<title> menu with corner border</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body> 
+	<section>
+		<div class="section1">
+
+		
+    	<div class="section2">
+    		<input type="text" placeholder="what are you looking for" class="txtsrch" /><button type="button" class="btnsrch">search</button>
+    		
+    	</div>
+
+
+</style>
+
+	</section>
+	<ul class="nav">
+	<li> <a href="INDEX.html">home</a></li>
+	<li> <a href="contact.html">contact</a></li>
+	<li> <a href="about.html">about</a></li>
+	<li> <a href="search.html">search</a></li>
+	<li> <a href="address.html">address</a></li>
+</ul>
+<h1 align="center" style="color:blue;" class="head" ><a href=https://www.google.com/search?q=shubhma+sales+bhilai&oq=shubhma+sales+bhila&aqs=chrome.1.69i57j33.9501j0j7&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8#trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:18159369062894482516,rc_q:Shubham%2520Sales,ru_q:Shubham%2520Sales>Shubham Sales & Corporation </h1>
+
+
+<div id="wrap">
+  		<div class="left"> 
+	<a style="color:white; background-color: red; padding:10%; border: 2px solid;"><b> All categories</b></a>
+
+			<a  class="submenu" > <b></a>
+			<a class="submenu" ><b>  Video game console </b></a>
+
+			<a class="submenu">Mobiles</a>
+			<a class="submenu">Home security</a>
+			<a class="submenu">Cameras</a>
+			<a class="submenu">Home theaters</a>
+			<a class="submenu">Led</a>
+			<a class="submenu">Computers</a>
+			<a class="submenu">Laptops</a>
+			<a class="submenu">Washing machine</a>
+			<a class="submenu">Sound device</a>
+				<a class="submenu">Home appliances</a>
+		
+	</div>
+
+
+ </div>
+  		<div class="right">  
+<marquee  scrollamount="30">
+<img src=C:\Users\DELL\Desktop\HTML\img\uled.png height=400; width=450;>
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\49samsung.jpg height=400; width=250; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge7.jfif height=400; width=300; >
+<img src=C:\Users\DELL\Desktop\HTML\img\wm.png height=400; width=400; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\wm3.jfif height=450; width=450; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\mix.jfif height=450; width=450; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\led9.jfif height=350; width=400; >
+<img src=C:\Users\DELL\Desktop\HTML\img\wm2.png height=300; width=400; >
+
+<br/>
+
+
+</marquee>
+</div>
+
+<div class="last">
+
+	<img src=C:\Users\DELL\Desktop\HTML\img\ast.jpg height=600; width=230; >
+
+ </div>
+<style type="text/css">
+
+#wrap {
+	width:1500px;
+
+	style="float: top;" />
+
+}
+
+.left {
+
+	width:270px;
+	background-color:white;
+	height:555px;
+	float:left;
+}
+
+.right{ 
+
+
+    width:990px;
+	background-color:white;
+	height:555px;
+	float:left;
+
+.last{
+	width: 240px;
+	height: 200px;
+	
+}
+
+	</style>
+</div>
+
+
+<h2 >Led Tv</h2>
+<hr>
+<br/>
+
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\uled.png  height=280; width=300;>
+
+<img src=C:\Users\DELL\Desktop\HTML\img\49samsung.jpg height=300; width=300; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\images.jpg height=300; width=300; >
+<img src=C:\Users\DELL\Desktop\HTML\img\led9.JFIF height=300; width=300; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\led12.jfif height=250; width=250; >
+
+<br/>
+
+
+<h2>Refrigerator</h2>
+<hr>
+<br/>
+
+<div id="fridge">
+	
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge1.jfif height=280; width=300; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge3.png height=300; width=300; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge6.jfif height=300; width=300; >
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge5.png height=300; width=300; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge7.jfif height=250; width=250; >
+
+<br/>
+
+</div>
+
+
+
+<h2 >Washing Machine</h2>
+<hr>
+<br/>
+
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\wm3.jfif height=280; width=300; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\wm.png height=300; width=300; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\wmm.jpg height=300; width=300; >
+<img src=C:\Users\DELL\Desktop\HTML\img\wm3.jfif height=300; width=300; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\wm6.jpg height=250; width=250; >
+
+<br/>
+
+
+<h2>Other Home Appliances</h2>
+<hr>
+<marquee scrollamount="35" direction=up > 
+<img src=C:\Users\DELL\Desktop\HTML\img\tv.png height=250; width=250; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\led2.jfif  direction=; height=250; width=250; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge1.jfif height=300; width=300; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\fridge7.jfif height=300; width=300; >
+<img src=C:\Users\DELL\Desktop\HTML\img\wm.png height=300; width=300; >
+
+<img src=C:\Users\DELL\Desktop\HTML\img\wm3.jfif height=250; width=250; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\mix.jfif height=250; width=250; >
+
+
+<img src=C:\Users\DELL\Desktop\HTML\img\led9.jfif height=300; width=300; >
+<img src=C:\Users\DELL\Desktop\HTML\img\wm2.png height=300; width=300; >
+
+<br/>
+		
+
+</marquee>
+<hr>
+
+<marquee scrollamount=20  onmouseover="this.stop();"
+                  onmouseout="this.start();">
+<table border="2px" >
+	<tr>
+		<td><img src="logo/1.jpg"></td>
+
+		<td><img src="logo/2.png"></td>
+		<td><img src="logo/3.png"></td>
+		<td><img src="logo/4.jpg"></td>
+		<td><img src="logo/5.png"></td>
+		<td><img src="logo/6.jpg"></td>
+		<td><img src="logo/7.png"></td>
+		<td><img src="logo/8.jpg"></td>
+		<td><img src="logo/9.png"></td>
+		<td><img src="logo/10.jpg"></td>
+		<td><img src="logo/11.png"></td>
+
+
+	</tr>
+</table>
+</marquee>
+<hr>
+
+<center>
+<div id="wrapa">
+
+	
+
+	<div class="first">
+		<center><h2>Customer Services</h2>
+		<hr>
+
+<br>
+<h3>Privacy policy</h3>
+<h3>Terms and condition</h3>
+<h3>Sitemap</h3>
+<h3>Return Policy</h3>
+</center>
+		
+
+	</div>
+   
+   </div>
+
+<div class="second">
+	<center>
+<h2>Get To Know Us</h2> 
+<hr>
+
+<br>
+<h3> About Us</h3>
+<h3 ><a href="contact.html">contact us</a></h3>
+</center>
+</div>
+
+<div class="third">
+	<center>
+	<h2>Get In Touch!</h2>
+	<hr>
+	<br>
+	<img src="C:\Users\DELL\Desktop\HTML\img\fb.jpg" height="50px" width="50px"><br>
+	<img src="C:\Users\DELL\Desktop\HTML\img\insta.jpg" height="50px" width="50px"><br>
+	
+	<img src="C:\Users\DELL\Desktop\HTML\img\you.png" height="50px" width="50px"><br>
+	
+	<img src="C:\Users\DELL\Desktop\HTML\img\twiter.png" height="50px" width="50px">
+	
+	</center>
+</div>
+
+<div class="fourth"><center>
+		<h2> Payment Methods</h2>
+		<hr><br>
+
+	<img src="C:\Users\DELL\Desktop\HTML\img\mc.png" height="50px" width="50px"><br>
+	
+	<img src="C:\Users\DELL\Desktop\HTML\img\visa.png" height="50px" width="50px"><br>
+	
+	<img src="C:\Users\DELL\Desktop\HTML\img\pt2.png" height="50px" width="50px">
+	
+		</center>
+
+
+</div>
+<style type="text/css">
+
+
+#wrapa {
+	width:1500px;
+
+	style="float: top;" />
+
+}
+
+
+.first{
+
+	width:300px;
+	background-color:grey;
+	height:350px;
+	float:left;
+}
+
+.second{ 
+
+
+    width:300px;
+	background-color:grey;
+	height:350px;
+	float:left;
+}
+
+.third{
+	width: 300px;
+	height: 350px;
+	background-color: grey;
+		float:left;
+}
+
+.fourth{
+	width: 600px;
+	height: 350px;
+	background-color: grey;
+		float:left;
+}
+
+    		
+	</style>
+</div>
+
+</center>
+</body>
+
+</html>
